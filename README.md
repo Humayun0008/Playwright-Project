@@ -2,11 +2,14 @@
 This framework is designed to be used as a boilerplate template to start automation testing quickly for any web application. The page object model is used to structure the test.
 ## Installation
 ---Install dependencies
-Command-: npm install
+ ```bash
+ npm install
+``` 
 ## Usage
 ---Run all the spec files
-Command-: npm run test
-
+```bash
+npm run test
+``` 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
