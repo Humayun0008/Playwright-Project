@@ -10,6 +10,8 @@ This framework is designed to be used as a boilerplate template to start automat
 ```bash
 npm run test
 ``` 
+### To see the Report
+Open the cucumber-report.html
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
